@@ -15,4 +15,7 @@
 > ##### 2. Eclipse Neon
 
 #### 라이브러리(Library)
+> #### 1. RXTXcomm.jar - (LGPL v2.1 + Linking Over Controlled Interface)
 
+#### 참고(Reference)
+Link: [Download - Rxtx], [Download STS], "http://rxtx.qbang.org/wiki/index.php/Download", QBang
