@@ -1,7 +1,7 @@
 ## [serialRXTX - Project]
 
 #### 작성자 소개(About the author)
-> ##### 1. Dodo (rabbit.white@daum.net)
+> ##### 1. Dodo (rabbit.white@daum.net / jungwy@kumoh.ac.kr)
 > ##### 2. Created by: 2017-12-30
 > ##### 3. Description: 
 > ###### 3-1. Implementing serial port communication in Java Swing
