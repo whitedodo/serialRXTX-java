@@ -12,6 +12,7 @@
 
 #### 개발환경(Development environment)
 > ##### 1. Java(JDK)
+>>> 참고로 JDK 13에서는 미지원합니다.
 > ##### 2. Eclipse Neon
 
 #### 라이브러리(Library)
